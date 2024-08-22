@@ -8,7 +8,7 @@ function App() {
   function takeNumber(number) {
     setNumber(number * 10 ** position + 1);
   }
-  lelelel
+  lelelele
   return (
     <>
       <section className="border rounded">
