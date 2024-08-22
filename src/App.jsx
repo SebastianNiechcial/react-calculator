@@ -8,12 +8,12 @@ function App() {
   function takeNumber(number) {
     setNumber(number * 10 ** position + 1);
   }
-
+  lelelel
   return (
     <>
       <section className="border rounded">
         <div className="flex justify-between">
-          <p className="border rounded text-white">Wynik: </p>
+          <p className="border rounded text-white">Wynik:  Głupie zmkany do cofnięcia </p>
           <p className=" text-white">{number}</p>
         </div>
         <section className="grid grid-rows-5 grid-cols-7">
